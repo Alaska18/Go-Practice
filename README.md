@@ -1,2 +1,2 @@
 # Go-Practice
-Go practices
+Contains codes and programmes to learn Go language!
